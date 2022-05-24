@@ -18,17 +18,14 @@ class SignUp extends StatelessWidget {
         child: SafeArea(
           child: Padding(
             padding:
-                const EdgeInsets.symmetric(horizontal: 40.0, vertical: 40.0),
+                const EdgeInsets.symmetric(horizontal: 40.0, vertical: 20.0),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
-                const Icon(
-                  FontAwesomeIcons.heartCrack,
-                  color: Color.fromRGBO(245, 45, 111, 1.0),
-                  size: 80.0,
-                ),
-                const SizedBox(
-                  height: 10.0,
+                Image.asset(
+                  'assets/connexion.png',
+                  width: 120,
+                  height: 120,
                 ),
                 Row(
                     mainAxisAlignment: MainAxisAlignment.center,
