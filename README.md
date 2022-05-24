@@ -22,7 +22,7 @@ Sign Up
 ![Simulator Screen Shot - iPhone 11 - 2022-05-24 at 22 29 50](https://user-images.githubusercontent.com/85108779/170074472-c0b2fa86-05ec-4d4a-bd4e-e814f836bcc5.png)
 
 Navigation 
-https://user-images.githubusercontent.com/85108779/170074502-782844a6-4537-40cb-9a11-73cd83ba739d.mp4
+[![Watch the video](https://user-images.githubusercontent.com/85108779/170074502-782844a6-4537-40cb-9a11-73cd83ba739d.mp4)
 
 ![20220524_223215](https://user-images.githubusercontent.com/85108779/170074838-b66727fc-47b9-4183-841c-1e0101713e61.gif)
 
