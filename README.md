@@ -15,4 +15,13 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Simulator Screen Shot - iPhone 11 - 2022-05-22 at 21 38 11](https://user-images.githubusercontent.com/85108779/169700864-d6493858-5cfe-4411-b244-8967ee6f05a6.png)
+Sign In
+![Simulator Screen Shot - iPhone 11 - 2022-05-24 at 22 29 46](https://user-images.githubusercontent.com/85108779/170074445-a82f6feb-1bd9-4f42-b0e5-6df137fb060c.png)
+
+Sign Up
+![Simulator Screen Shot - iPhone 11 - 2022-05-24 at 22 29 50](https://user-images.githubusercontent.com/85108779/170074472-c0b2fa86-05ec-4d4a-bd4e-e814f836bcc5.png)
+
+Navigation 
+https://user-images.githubusercontent.com/85108779/170074502-782844a6-4537-40cb-9a11-73cd83ba739d.mp4
+
+
