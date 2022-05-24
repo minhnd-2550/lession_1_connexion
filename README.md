@@ -24,4 +24,6 @@ Sign Up
 Navigation 
 https://user-images.githubusercontent.com/85108779/170074502-782844a6-4537-40cb-9a11-73cd83ba739d.mp4
 
+![20220524_223215](https://user-images.githubusercontent.com/85108779/170074838-b66727fc-47b9-4183-841c-1e0101713e61.gif)
+
 
